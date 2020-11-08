@@ -109,6 +109,24 @@
       "icon": "🍽",
       "data": [
          {
+            "newEntry": 1,
+            "name": "Gut Birreria & Cucineria",
+            "tel": "0542 641586",
+            "satispay": 1,
+            "mail": "info@gutbirreria.it",
+            "site": "https://www.gutbirreria.com/",
+            "note": "Consegna con nostri rider e tramite Deliveroo o Foodracers. Consegna in tutto il comprensorio."
+         },
+         {
+            "newEntry": 1,
+            "name": "Primo Piano Lounge Bar & Restaurant",
+            "tel": "3454500135",
+            "mail": "primopianoimola@gmail.com",
+            "fb": "primopianoimola@gmail.com",
+            "site": "https://loungebarprimopianoimola.eatbu.com/",
+            "note": "Consegna in tutto il comprensorio"
+         },
+         {
             "name": "Andy & Flo",
             "tel": "0542.640109",
             "fb": "//facebook.com/Andy-Flo-1417704201845485",
@@ -794,7 +812,6 @@
       "icon": "🍝",
       "data": [
          {
-            "newEntry": 1,
             "name": "Dolce Pasta",
             "tel": "0542 22570",
             "satispay": 1,
