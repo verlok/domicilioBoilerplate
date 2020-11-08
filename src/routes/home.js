@@ -127,7 +127,7 @@ export default class Home extends Component {
                   ))}
                </div>
                <p class="text-center my-5">
-                  Paga dal tuo smartphone senza scambio di denaro o carte.{" "}
+                  Paga dal tuo smartphone, senza scambio di denaro.{" "}
                   <a
                      rel="noopener noreferrer"
                      target="_blank"
