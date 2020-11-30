@@ -414,9 +414,10 @@
          },
          {
             "name": "Folli prodotti Ortofrutticoli",
-            "tel": ["3336687712", "3409128427"],
+            "tel": ["3336687712"],
             "fb": "//facebook.com/Folliprodottiortofrutticoli",
-            "satispay": 1
+            "satispay": 1,
+            "note": "Consegna in tutto il comprensorio"
          },
          {
             "name": "La Misticanza",
